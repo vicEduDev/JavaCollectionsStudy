@@ -1,3 +1,4 @@
+package lists;
 public class Tarefa{
     //Atributo
     private String descricao;

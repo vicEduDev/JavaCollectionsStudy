@@ -1,3 +1,4 @@
+package lists;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -35,12 +36,12 @@ public class CarrinhoDeCompras{
         System.out.println(listaItens.toString());
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
         carrinho.adicionarItem("sabonete", 5, 3);
         carrinho.adicionarItem("macarrão", 25, 2);
         System.out.println("O valor total é de R$"+carrinho.calcularValorTotal());
         carrinho.exibirItens();
-    }
+    }*/
 
 }
